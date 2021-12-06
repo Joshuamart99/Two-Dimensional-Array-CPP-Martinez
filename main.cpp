@@ -1,7 +1,10 @@
 //Student Name:Joshua Martinez
 //Teacher: Dr. Tyson McMillan
+//School: Tarrant County College
 //Date: 11/08/2021
-//A program to practice working with multi-dimensional arrays
+//Purpose:A program to practice working with multi-dimensional arrays
+//Learnt: I learned to work with multi-dimensional arrays
+
 #include <iostream>
 using namespace std;
 /*
